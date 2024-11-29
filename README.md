@@ -1,23 +1,18 @@
-## Simple Voice Chat - A working voice chat in Minecraft!
+## How do I use it?
+### The mod adds a new keybinding called "Favorite Slot" which is set to F by default.
+### When you press it while hovering over an item in your inventory, it will mark that slot as a favorite.
+### Or, if you're not in an inventory screen, it will mark the hotbar slot you currently have selected as favorited.
 
-### Features
-    Push to talk
-    Voice activation
-    Proximity voice chat
-    Password protected group chats
-    Opus codec
-    RNNoise recurrent neural network noise suppression
-    OpenAL audio
-    Cross compatibility between Fabric, NeoForge, Forge, Quilt, Bukkit, Spigot and Paper
-    Support for Velocity, BungeeCord and Waterfall
-    Compatibility with ModMenu (Use ClothConfig for a better configuration UI)
-    Configurable push to talk key
-    Microphone test playback
-    Configurable voice distance
-    Whispering
-    Individual player volume adjustment
-    Microphone amplification
-    3D sound
-    AES encryption
-    Audio recording with separate audio tracks
-    A powerful API
+## What does the mod block?
+## If the (hotbar) slot is favorited, you can't:
+
+### Move the item within it
+- Drop the item
+- Wipe that slot using the bin slot
+- Quick move items into or out of that slot
+- Swap an item into or out of that slot
+- Where will the mod block these actions?
+- In the player inventory
+- In the hotbar in any container
+- In your offhand slot
+- In your armor slots
